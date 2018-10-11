@@ -10,7 +10,7 @@ namespace Lab_6
     //  2.	Публічний автозгенерований параметр(get; set; ) Color типу string.
     //  3.	Публічний конструктор Animal, що приймає два аргументи : color типу string, weight типу float, та присвоює ці аргументи автозгенерованим параметрам.
     //  4.	Публічний абстрактний метод MakeSound без аргументів, що повертає string.
-    
+
     public abstract class Animal
     {
         public float Weight { get; set; }
