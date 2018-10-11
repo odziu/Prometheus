@@ -52,6 +52,21 @@ namespace Task_2
             }
 
             Console.ReadLine();
+
+
+            /*
+            Кіт чи Котик
+            
+            string a = "котик";
+
+            switch (a)
+            {
+                case "котик":
+                    Console.WriteLine(a);
+                default:
+                    Console.WriteLine(a);
+            }
+            */
         }
     }
 }
