@@ -19,3 +19,10 @@ C:\Users\odziu\Desktop\Prometheus\Video_2_1\Lab_5\obj\Debug\Lab_5.csprojAssembly
 C:\Users\odziu\Desktop\Prometheus\Video_2_1\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
 C:\Users\odziu\Desktop\Prometheus\Video_2_1\Lab_5\obj\Debug\Lab5.exe
 C:\Users\odziu\Desktop\Prometheus\Video_2_1\Lab_5\obj\Debug\Lab5.pdb
+C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\bin\Debug\Lab5.exe.config
+C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\bin\Debug\Lab5.exe
+C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\bin\Debug\Lab5.pdb
+C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab_5.csprojAssemblyReference.cache
+C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab5.exe
+C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab5.pdb

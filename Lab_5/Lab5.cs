@@ -4,10 +4,17 @@ using System.Linq;
 
 namespace Lab5
 {
+    //  FaradayTheCat and AdaTheCat
+
+    //  Напишіть публічний клас Cat, що буде описувати кота.
+    //  Клас Cat повинен містити виключно вказані члени.
+    //  Порядок членів у класі не є важливим. Назви членів важливі. 
+
     public enum Gender { Male, Female };
 
     public class Cat
     {
+        //  Елементи класу Cat: 
         //  1. Автозгенерований параметр тільки для зчитування Name типу string. 
         public string Name { get; }
 
