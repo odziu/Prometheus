@@ -27,11 +27,13 @@ namespace Lab_4_1
             else if (right_i == right.Length) a[ai++] = left[left_i++];
             */
 
+            /*
             return a;
 
             Console.WriteLine(leftArrayLength);
             Console.WriteLine(rightArrayLength);
             Console.ReadLine();
+            */
         }
     }
 }

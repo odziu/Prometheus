@@ -18,8 +18,7 @@ namespace Lab_3_2
             };
 
             int b = 0;
-            int c = 0;
-
+            
             for (int i = 0; i < a.Length - 1; i++)
             {
                 int max1 = i;
