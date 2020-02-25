@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_3_1", "Arrays\Lab_3_1.csproj", "{BA0FA89B-0F0F-4BFF-8B85-4C8836A75CD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_3_2", "ConsoleApp1\Lab_3_2.csproj", "{858E8B87-A68F-471E-828F-3D416E2F92BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_3_part_1", "ConsoleApp2\Video_3_part_1.csproj", "{425189FC-9581-4273-BD04-2D2F0E319A97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_3-1_Arrays", "ConsoleApp2\V_3-1_Arrays.csproj", "{425189FC-9581-4273-BD04-2D2F0E319A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_3_part_2", "Two-Level_Array\Video_3_part_2.csproj", "{A83EB5CE-7BC7-4307-A816-BEECBA34B354}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_3-2_Arrays", "Two-Level_Array\V_3-2_Arrays.csproj", "{A83EB5CE-7BC7-4307-A816-BEECBA34B354}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_part_4", "Video\Video_part_4.csproj", "{8E735F50-D848-4DFC-A55A-27EE59922B82}"
 EndProject
@@ -33,9 +33,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_1", "Lab_1\Lab_1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_6", "Lab_6\Lab_6.csproj", "{C99EBD04-60FB-4A54-8A05-E026D2211500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_2_1", "Video_2_1\Video_2_1.csproj", "{851561F3-D52C-48D0-B0E3-7C69394B0465}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_2-1_Conditional_Statements", "Video_2_1\V_2-1_Conditional_Statements.csproj", "{851561F3-D52C-48D0-B0E3-7C69394B0465}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_2_2", "Video_2_2\Video_2_2.csproj", "{0A126779-29CF-4151-9873-1D87F456787A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_2-2_Loops", "Video_2_2\V_2-2_Loops.csproj", "{0A126779-29CF-4151-9873-1D87F456787A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_1", "Task_2\Task_2_1.csproj", "{21D5B69E-95A6-4639-9DC6-BB63A153DC6D}"
 EndProject
@@ -47,9 +47,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_2", "Lab_2_2\Lab_2_2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_3", "Lab_2_3\Lab_2_3.csproj", "{BC0442F3-4588-4605-8A2B-FB5934B83DEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_1_2", "Video_1_2\Video_1_2.csproj", "{EFF8896D-AA86-46A3-A0D9-656BAE7AE47A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_1-2_HelloWorld", "Video_1_2\V_1-2_HelloWorld.csproj", "{EFF8896D-AA86-46A3-A0D9-656BAE7AE47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_1_1", "Video_1_1\Video_1_1.csproj", "{73C42DCE-9BDA-495D-A190-3178802C0073}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_1-1_Variables", "Video_1_1\V_1-1_Variables.csproj", "{73C42DCE-9BDA-495D-A190-3178802C0073}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

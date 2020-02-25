@@ -26,3 +26,9 @@ C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab_5.csprojAssemblyRefer
 C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
 C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab5.exe
 C:\Users\odziu\Desktop\Prometheus\Lab2\Lab_5\obj\Debug\Lab5.pdb
+C:\Users\Oleh\Sharp\Prometheus\Lab_5\bin\Debug\Lab5.exe.config
+C:\Users\Oleh\Sharp\Prometheus\Lab_5\bin\Debug\Lab5.exe
+C:\Users\Oleh\Sharp\Prometheus\Lab_5\bin\Debug\Lab5.pdb
+C:\Users\Oleh\Sharp\Prometheus\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Oleh\Sharp\Prometheus\Lab_5\obj\Debug\Lab5.exe
+C:\Users\Oleh\Sharp\Prometheus\Lab_5\obj\Debug\Lab5.pdb

@@ -30,18 +30,17 @@ namespace Two_Level_Array
             int value3 = array[1, 0];
 
             Console.WriteLine();
+            Console.WriteLine("'Console.WriteLine()' shows:");
             Console.WriteLine(value1);
             Console.WriteLine(value2);
             Console.WriteLine(value3);
 
             Console.WriteLine();
+            Console.WriteLine("'Console.Write()' shows:");
             Console.Write(value1);
             Console.Write(value2);
             Console.Write(value3);
             Console.ReadLine();
-
         }
-
-        
     }
 }

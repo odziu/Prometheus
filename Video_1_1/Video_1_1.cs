@@ -7,17 +7,17 @@ namespace Video_1_1
     {
         static void Main()
         {
-            /*
+            
             myType nVarFirst = 10;
             double nVar = 10;
             int nDiv = 0;
+            Console.WriteLine(nVarFirst);
             Console.WriteLine(nVar/nDiv);
             
-            /*
             int a = 10 + 11 * 12;
             int b = a / 13 + 14;
             a = 15 + b % 16;
-            */
+            Console.WriteLine(a);
 
             /*
             int a = -12;
@@ -27,12 +27,12 @@ namespace Video_1_1
             Console.WriteLine(a);
             */
 
-            
+            /*
             int a = 3, b = 2, c;
             c = a / b;
             Console.WriteLine(c);
-            
-
+            Console.ReadLine();
+            */
             Console.ReadLine();
         }
     }
